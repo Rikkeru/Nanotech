@@ -1,0 +1,125 @@
+Presentation of Nanotechnology
+Uses and Functions
+The main goal of nanotechnology is to develop new substances, machines, and 
+systems with special qualities and capabilities resulting from their tiny architectures. The 
+following are some of the primary uses and applications of nanotechnology:
+• Electronics and Computing: Nanotechnology has had a significant impact 
+on electronics and computing. It has led to the development of smaller, 
+faster, and more efficient electronic components, such as transistors, 
+memory devices, and sensors. Nanoscale materials, such as carbon 
+nanotubes and graphene, have unique electrical properties and are being 
+explored for use in future generations of electronics.
+• Energy: Nanotechnology is being used to improve energy production, 
+storage, and efficiency. For example, nanomaterials are being explored for 
+more efficient solar cells and energy storage devices, such as batteries and 
+supercapacitors. Nanotechnology is also applied in developing more 
+efficient catalysts for fuel cells and improving the energy efficiency of 
+buildings.
+• Biomedicine: The properties of some nanomaterials make them ideal for 
+improving early diagnosis and treatment of neurodegenerative diseases or 
+cancer. They are able to attack cancer cells selectively without harming 
+other healthy cells. Some nanoparticles have also been used to enhance 
+pharmaceutical products such as sunscreen.
+• Environment: Air purification with ions, wastewater purification with 
+nanobubbles or nanofiltration systems for heavy metals are some of its 
+environmentally-friendly applications. Nanocatalysts are also available to 
+make chemical reactions more efficient and less polluting.
+• Food: In this field, nanobiosensors could be used to detect the presence of 
+pathogens in food or nanocomposites to improve food production by 
+increasing mechanical and thermal resistance and decreasing oxygen 
+transfer in packaged products.
+• Textile: Nanotechnology makes it possible to develop smart fabrics that 
+don't stain nor wrinkle, as well as stronger, lighter and more durable 
+materials to make motorcycle helmets or sports equipment.
+Importance and Benefits
+The impact of nanotechnology extends from its medical, ethical, mental, and 
+environmental applications to fields such as engineering, biology, chemistry, computing, 
+materials science, and communications. Major benefits of nanotechnology include 
+improved manufacturing methods, water purification systems, energy systems, physical 
+enhancement, nanomedicine, better food production methods, nutrition and large-scale 
+infrastructure auto-fabrication. Nanotechnology's reduced size may allow for automation 
+of tasks which were previously inaccessible due to physical restrictions, which in turn may 
+reduce labor, land, or maintenance requirements placed on humans.
+• Medical- Nanotechnology has extensive application as nanomedicine in the 
+medical field. Some nanoparticles have possible applications in novel 
+diagnostic instruments, imagery and methodologies, targeted medicinal 
+products, pharmaceutical products, biomedical implants, and tissue 
+engineering. Today treatments of high toxicity can be administered with 
+improved safety using nanotechnology, such as chemotherapeutic cancer 
+drugs.
+• Ethical- Considering the significant risks associated with nanotechnology, it is 
+crucial to thoroughly evaluate its potential repercussions. While it is possible that 
+nanotechnology may not reach the level of advancement anticipated by its 
+proponents, it is prudent to proactively address any ethical concerns that may 
+arise before the technology becomes firmly established in society.
+• Mental- Nanotechnology can potentially have both positive and negative 
+impacts on mental health. On the positive side, nanotechnology-based 
+advancements in diagnostics and treatment options can lead to more 
+effective and personalized approaches for mental health disorders. However, 
+it is essential to consider the potential risks and ethical implications associated 
+with nanotechnology. The use of nanomaterials in brain interfaces or implants 
+raises concerns regarding long-term safety, privacy, and the potential for 
+unintended consequences.
+• Environmental- The environmental impact of nanotechnology is the possible 
+effects that the use of nanotechnological materials and devices will have on 
+the environment. As nanotechnology is an emerging field, there is debate 
+regarding to what extent industrial and commercial use of nanomaterials will 
+affect organisms and ecosystems. Nanotechnology's environmental impact 
+can be split into two aspects: the potential for nanotechnological innovations 
+to help improve the environment, and the possibly novel type of pollution that 
+nanotechnological materials might cause if released into the environment.
+Literature Reviews and Supporting Information
+Nanotechnology is a multidisciplinary field that includes a vast and diverse array of 
+devices that derived from engineering, physics, chemistry, and biology leading to the 
+development of structures, devices and systems that have novel functional properties by 
+size ranging between 1 and 100 nm (Neethirajan and Jayas 2010; Borm et al, 2006; Ducan 
+2011). Nanotechnology involves the manipulation of materials at nanometer sizes leading 
+to the fabrication of nanodevices to enhance their performance.
+APPLICATIONS OF NANOPARTICLES
+• Nanomaterials – used to describe materials with one or more components that 
+have at least one dimension in the range of 1 to 100 nm and include Nanoparticles, 
+nanofibres and nanotubes, composite materials and nano-structured surfaces. 
+These include Nanoparticles (NP) as a subset of nanomaterials currently defined 
+by consensus as single particles with a diameter < 100 nm. Agglomerates of NP can 
+be larger than 100 nm in diameter but will be included in the discussion since they 
+may break down on weak mechanical forces or in solvents. Nanofibres are a subclass of nanoparticles (include nanotubes) which have two dimensions < 100 nm 
+but the third (axial) dimension can be much larger. 
+• Nanotools – tools and techniques for synthesizing nanomaterials, manipulating 
+atoms and fabricating device structures, and very importantly for measuring and 
+characterizing materials and devices at the nanoscale.
+• Nanodevices – making devices at the nanoscale, important in microelectronics 
+and optoelectronics at the present time, and at the interface with biotechnology 
+where the aim is to mimic the action of biological systems such as cellular motors. 
+This latter area is the most futuristic, and excites the greatest public reaction (Borm 
+et al., 2006)
+Technology Observations
+This technological branch manipulates the molecular structure of materials to 
+change their intrinsic properties and obtain others with revolutionary applications. This is 
+the case of graphene — modified carbon harder than steel, lighter than aluminum and 
+almost transparent — or nanoparticles used in areas such as electronics, energy, 
+biomedicine or defense. There are bright and dark spots in the future of nanotechnology. 
+On the one hand, the sector is expected to grow globally, driven by technological 
+advances, increased government support, increased private investment and growing 
+demand for smaller devices, to name a few. However, the environmental, health and 
+safety risks of nanotechnology and concerns related to its commercialization could 
+hamper market expansion. Nanotechnology is the manipulation of matter on a nearatomic scale to produce new structures, materials and devices. The technology promises 
+scientific advancement in many sectors such as medicine, consumer products, energy, 
+materials and manufacturing.
+Surveys and Technology Evaluation
+In 2005, the National Science Foundation (NSF) awarded a grant to the National 
+Center for Manufacturing Sciences (NCMS) to poll over 6,000 senior-level executives in 
+leading U.S. organizations with leadership, technology or strategic research and 
+development (R&D) responsibility to assess the outcome of growing private and public 
+investments made in nano-technology under the National Nanotechnology Initiative 
+(NNI). The overarching objective in conducting this largest known cross-industry 
+benchmark study was to determine whether surveyed organizations treat nanotechnology 
+differently from any other generation of advanced science and technology. The metric 
+established by NSF was 300 survey responses to develop a credible profile – the survey 
+netted 594 completed responses, representing a response rate of 10%. The NCMS survey 
+of nearly 600 industry executives indicates that the state of the U.S. Nanomanufacturing 
+Industry is generally vital, innovative and competitive for demonstrated passive 
+nanotechnology products with many two-dimensional (2D) product applications growing 
+rapidly for end-uses across diverse industry sectors. The survey confirms that the U.S. has 
+the best-developed and mature research facilities, entrepreneurial culture and 
+governance infrastructure for promoting new nanotechnology driven economic 
+development.
