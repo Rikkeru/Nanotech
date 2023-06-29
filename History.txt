@@ -1,0 +1,66 @@
+History of Nanotechnology
+4th Century: The Lycurgus Cup (Rome) is an example of dichroic glass; colloidal 
+gold and silver in the glass allow it to look opaque green when lit from outside but 
+translucent red when light shines through the inside.
+9th-17th Centuries: Glowing, glittering “luster” ceramic glazes used in the Islamic 
+world, and later in Europe, contained silver or copper or other metallic nanoparticles.
+6th-15th Centuries: Vibrant stained-glass windows in European cathedrals owed 
+their rich colors to nanoparticles of gold chloride and other metal oxides and chlorides; 
+gold nanoparticles also acted as photocatalytic air purifiers.
+13th-18th Centuries: “Damascus” saber blades contained carbon nanotubes and 
+cementite nanowires an ultrahigh-carbon steel formulation that gave them strength, 
+resilience, the ability to hold a keen edge, and a visible moiré pattern in the steel that give 
+the blades their name.
+1857: Michael Faraday discovered colloidal “ruby” gold, demonstrating that 
+nanostructured gold under certain lighting conditions produces different-colored solutions.
+1936: Erwin Müller, working at Siemens Research Laboratory, invented the field 
+emission microscope, allowing near-atomic-resolution images of materials.
+1947: John Bardeen, William Shockley, and Walter Brattain at Bell Labs discovered 
+the semiconductor transistor and greatly expanded scientific knowledge of 
+semiconductor interfaces, laying the foundation for electronic devices and the 
+Information Age.
+1951: Erwin Müller pioneered the field ion microscope, a means to image the 
+arrangement of atoms at the surface of a sharp metal tip; he first imaged tungsten atoms.
+1981: Gerd Binnig and Heinrich Rohrer at IBM’s Zurich lab invented the scanning 
+tunneling microscope, allowing scientists to "see" (create direct spatial images of) 
+individual atoms for the first time. Binnig and Rohrer won the Nobel Prize for this discovery 
+in 1986.
+1985: Rice University researchers Harold Kroto, Sean O’Brien, Robert Curl, and 
+Richard Smalley discovered the Buckminsterfullerene (C60), more commonly known as the 
+buckyball, which is a molecule resembling a soccer ball in shape and composed entirely 
+of carbon, as are graphite and diamond. The team was awarded the 1996 Nobel Prize in 
+Chemistry for their roles in this discovery and that of the fullerene class of molecules more 
+generally.
+1985: Bell Labs’s Louis Brus discovered colloidal semiconductor nanocrystals 
+(quantum dots), for which he shared the 2008 Kavli Prize in Nanotechnology.
+1986: Gerd Binnig, Calvin Quate, and Christoph Gerber invented the atomic force 
+microscope, which has the capability to view, measure, and manipulate materials down 
+to fractions of a nanometer in size, including measurement of various forces intrinsic to 
+nanomaterials.
+1989: Don Eigler and Erhard Schweizer at IBM's Almaden Research Center 
+manipulated 35 individual xenon atoms to spell out the IBM logo. This demonstration of the 
+ability to precisely manipulate atoms ushered in the applied use of nanotechnology.
+1991: Sumio Iijima of NEC is credited with discovering the carbon nanotube (CNT), 
+although there were early observations of tubular carbon structures by others as well. Iijima 
+shared the Kavli Prize in Nanoscience in 2008 for this advance and other advances in the 
+field. CNTs, like buckyballs, are entirely composed of carbon, but in a tubular shape. They 
+exhibit extraordinary properties in terms of strength, electrical and thermal conductivity, 
+among others.
+1992: C.T. Kresge and colleagues at Mobil Oil discovered the nanostructured
+catalytic materials MCM-41 and MCM-48, now used heavily in refining crude oil as well as 
+for drug delivery, water treatment, and other varied applications.
+1999: Cornell University researchers Wilson Ho and Hyojune Lee probed secrets of 
+chemical bonding by assembling a molecule [iron carbonyl Fe(CO)2] from constituent 
+components [iron (Fe) and carbon monoxide (CO)] with a scanning tunneling 
+microscope.
+1999: Chad Mirkin at Northwestern University invented dip-pen nanolithography 
+(DPN), leading to manufacturable, reproducible “writing” of electronic circuits as well as 
+patterning of biomaterials for cell biology research, nanoencryption, and other 
+applications. 
+1999–early 2000’s: Consumer products making use of nanotechnology began 
+appearing in the marketplace, including lightweight nanotechnology-enabled 
+automobile bumpers that resist denting and scratching, golf balls that fly straighter, tennis 
+rackets that are stiffer (therefore, the ball rebounds faster), baseball bats with better flex 
+and "kick," nano-silver antibacterial socks, clear sunscreens, wrinkle- and stain-resistant 
+clothing, deep-penetrating therapeutic cosmetics, scratch-resistant glass coatings, fasterrecharging batteries for cordless electric tools, and improved displays for televisions, cell 
+phones, and digital cameras.
